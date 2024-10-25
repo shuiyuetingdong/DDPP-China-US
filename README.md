@@ -1,3 +1,16 @@
 # DDPP-China-US
 
-The code and data will coming soon
+
+
+
+
+
+
+## Getting Started
+
+Run the following command to install the required environment.
+
+``` shell
+pip install -r requirements.txt
+```
+
